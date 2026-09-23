@@ -27,6 +27,6 @@ SQL (MySQL, SQL Server, Oracle, SQLite) · Python · AWS (IAM, S3, VPC) · Java 
 ---
 
 ### 📫 Let's connect
-- LinkedIn: [linkedin.com/in/mahenoor-pathan](https://www.linkedin.com/in/mahenoor-pathan/)
+   - LinkedIn: [linkedin.com/in/mahenoorpathan](https://www.linkedin.com/in/mahenoorpathan)
 - Email: mahenoorpathan2407@gmail.com
 - Book a quick chat: [Calendly](https://calendly.com/mahenoorpathan2407/30min)
